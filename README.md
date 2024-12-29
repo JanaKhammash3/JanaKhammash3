@@ -32,7 +32,7 @@ I'm Jana Khammash, a passionate computer engineering student in my final year at
 📝 **Description:** We reserve" is a hotel reservation room database. This program helps customers and employees to work and arrange their information in database management systems to make their work easier. We used Java and Oracle to store databases about rooms, customers, and employees. 
 📂 **Repository:** [Sakancom-Project](https://github.com/JanaKhammash3/Hotel-Database-)
 
-**Languages:** Git,java  
+**Languages:** Git, java  
 
 ## 📊 GitHub Stats
 
