@@ -19,12 +19,17 @@ I'm Jana Khammash, a passionate computer engineering student in my final year at
 ### 1. RentItOut
 📝 **Description:** RentItOut is a backend API for a rental platform where users can list and rent everyday items, promoting a circular economy by reducing the need to purchase items for infrequent use. 
 📂 **Repository:** [RentItOut](https://github.com/JanaKhammash3/RentItOut)
+**Languages:** Node.js, MySQL, Git, Express.js  
+
 ### 2. Hotel-Database
 📝 **Description:** A database management system for booking and rent electronically and sell used furniture. Built in Java. Tested, deployed, and continuously integrated with Jenkins. 
 📂 **Repository:** [Hotel-Database](https://github.com/JanaKhammash3/Sakancom-Project)
+**Languages:** MySQL, java 
+
 ### 3. Sakancom Project
 📝 **Description:** We reserve" is a hotel reservation room database. This program helps customers and employees to work and arrange their information in database management systems to make their work easier. We used Java and Oracle to store databases about rooms, customers, and employees. 
 📂 **Repository:** [Sakancom-Project](https://github.com/JanaKhammash3/Hotel-Database-)
+**Languages:** Git,java  
 
 ## 📊 GitHub Stats
 
