@@ -22,7 +22,7 @@ I'm Jana Khammash, a passionate computer engineering student in my final year at
 
 **Languages:** Node.js, MySQL, Git, Express.js  
 
-### 2. Hotel-Database
+### 2. Hotel Database
 📝 **Description:** A database management system for booking and rent electronically and sell used furniture. Built in Java. Tested, deployed, and continuously integrated with Jenkins. 
 📂 **Repository:** [Hotel-Database](https://github.com/JanaKhammash3/Hotel-Database-)
 
