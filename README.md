@@ -4,7 +4,7 @@ I'm Jana Khammash, a passionate computer engineering student in my final year at
 
 ## About Me
 
-🌟 **Full-stack development with Node.js, Express, and various database technologies.**  
+🌟 **Backend developer with Node.js, Express, and various database technologies.**  
 💡 **Strong analytical and problem-solving skills, always eager to tackle new challenges.**
 
 ## 🚀 Languages and Tools
