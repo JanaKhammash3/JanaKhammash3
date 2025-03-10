@@ -9,9 +9,9 @@ I'm Jana Khammash, a passionate computer engineering student in my final year at
 
 ## 🚀 Languages and Tools
 
-**Languages:** C, C++, Java, JavaScript, Python.  
+**Languages:** C, C++, C#, Java, JavaScript, Python.  
 **Frameworks:** Node.js, Express.js.  
-**Tools:** Git, Visual Studio Code, MySQL Workbench.  
+**Tools:** Git, Visual Studio Code, JetBrains Rider, MySQL Workbench.  
 **Other:** RESTful APIs, Google Maps API, JWT (JSON Web Tokens).
 
 ## 🌟 Projects
