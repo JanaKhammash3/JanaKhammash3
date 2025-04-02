@@ -38,7 +38,7 @@ I'm Jana Khammash, a passionate computer engineering student in my final year at
 
 ![Jana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanaKhammash3&show_icons=true&theme=radical)
 ## 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKhammash3&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKhammash3&layout=compact&theme=radical&width=800&height=400)
 
 ## 📫 How to Reach Me
 
