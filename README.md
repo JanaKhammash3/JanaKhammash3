@@ -4,13 +4,13 @@ I'm Jana Khammash, a passionate computer engineer. I'm looking for a challenging
 
 ## About Me
 
-🌟 **Backend developer with Node.js, Express, and various database technologies.**  
+🌟 **Backend developer with Node.js, Express, .NET Framework and various database technologies.**  
 💡 **Strong analytical and problem-solving skills, always eager to tackle new challenges.**
 
 ## 🚀 Languages and Tools
 
 **Languages:** C, C++, C#, Java, JavaScript, Python.  
-**Frameworks:** Node.js, Express.js, ASP.NET.  
+**Frameworks:** Node.js, Express.js, .NET.  
 **Tools:** Git, Visual Studio Code, JetBrains Rider, MySQL Workbench.  
 **Other:** RESTful APIs, Google Maps API, JWT (JSON Web Tokens).
 
