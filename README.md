@@ -29,10 +29,3 @@ I'm Jana Khammash, a passionate computer engineer. I'm looking for a challenging
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKhammash3&layout=compact&theme=radical&langs_count=10&count_private=true" width="38%" />
 
 </div>
-
-
-## 📫 How to Reach Me
-
-📧 **Email:** [janakhammash4@gmail.com](mailto:janakhammash4@gmail.com)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/jana-khammash](https://www.linkedin.com/in/jana-khammash-874371274/)
-
