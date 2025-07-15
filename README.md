@@ -11,8 +11,7 @@ I'm Jana Khammash, a passionate computer engineer. I'm looking for a challenging
 
 **Languages:** C, C++, C#, Java, JavaScript, Python.  
 **Frameworks:** Node.js, Express.js, .NET.  
-**Tools:** Git, Visual Studio Code, JetBrains Rider, MySQL Workbench.  
-**Other:** RESTful APIs, Google Maps API, JWT (JSON Web Tokens).
+**Database and Tools:** Git, SQL Server, MySQL, MongoDB.  
 
 ## 🌟 Projects
 
