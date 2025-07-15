@@ -27,11 +27,15 @@ I'm Jana Khammash, a passionate computer engineer. I'm looking for a challenging
 
 **Tech Stack:** C#, ASP.NET Core, EF Core, SQL Server, xUnit, Moq, Cloudinary, Stripe, Mailtrap 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-![Jana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanaKhammash3&show_icons=true&theme=radical)
-## 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKhammash3&layout=compact&theme=radical&langs_count=20&width=5000&height=600&count_private=true)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JanaKhammash3&show_icons=true&theme=radical" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKhammash3&layout=compact&theme=radical&langs_count=20&count_private=true" width="48%" />
+
+</div>
 
 ## 📫 How to Reach Me
 
