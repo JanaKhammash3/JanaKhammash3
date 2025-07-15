@@ -2,12 +2,7 @@
 
 I'm Jana Khammash, a passionate computer engineer. I'm looking for a challenging position where I can leverage my technical talents and knowledge while gaining practical experience in the field.
 
-## About Me
-
-🌟 **Backend developer with Node.js, Express, .NET Framework and various database technologies.**  
-💡 **Strong analytical and problem-solving skills, always eager to tackle new challenges.**
-
-## 🚀 Languages and Tools
+## 🚀 Technical Skills
 
 **Languages:** C, C++, C#, Java, JavaScript, Python.  
 **Frameworks:** Node.js, Express.js, .NET.  
@@ -29,13 +24,14 @@ I'm Jana Khammash, a passionate computer engineer. I'm looking for a challenging
 
 ## 📊 GitHub Stats & Languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JanaKhammash3&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JanaKhammash3&show_icons=true&theme=radical" width="45%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKhammash3&layout=compact&theme=radical&langs_count=20&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaKhammash3&layout=compact&theme=radical&langs_count=10&count_private=true" width="38%" />
 
 </div>
+
 
 ## 📫 How to Reach Me
 
